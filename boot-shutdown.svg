@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="136" height="145.778" viewBox="0 0 136 145.778" fill="none" stroke="none" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group">
+    <path id="Oval Difference Subtract" d="M32.3529 0.19116C12.9394 12.165 0 33.6264 0 58.1099C0 95.6654 30.4446 126.11 67.9999 126.11C105.555 126.11 136 95.6654 136 58.1099C136 33.4955 122.922 11.9357 103.335 0L97.1699 10.8194C113.005 20.6076 123.555 38.1266 123.555 58.1099C123.555 88.7924 98.6824 113.665 67.9999 113.665C37.3175 113.665 12.4444 88.7924 12.4444 58.1099C12.4444 38.1854 22.9332 20.7107 38.6903 10.906L32.3529 0.19116Z" style="fill:#FFFFFF;fill-rule:evenodd;mix-blend-mode:normal;" transform="translate(0 19.668)" />
+    <path id="Rectangle" d="M10.2222 0C12.4317 0 14.2222 1.79056 14.2222 4L14.2222 63.5556C14.2222 65.765 12.4317 67.5556 10.2222 67.5556L4 67.5556C1.79056 67.5556 0 65.765 0 63.5556L0 4C0 1.79056 1.79056 0 4 0L10.2222 0Z" style="fill:#FFFFFF;mix-blend-mode:normal;" transform="translate(60.444 0)" />
+  </g>
+</svg>

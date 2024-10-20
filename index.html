@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Picoswitch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Picoswitch</h1>
+    <div class="status">
+        <p><span>●</span> Powered on</p>
+    </div>
+    <div class="buttons">
+        <div>
+            <a href="/action/0" class="button">
+                <img src="boot-shutdown.svg" alt="Boot/Shutdown">
+            </a>
+            <div class="text">Boot/Shutdown (short push)</div>
+        </div>
+        <div>
+            <a href="/action/1" class="button power-off">
+                <img src="poweroff.svg" alt="Power off">
+            </a>
+            <div class="text-power-off">Power off (long push)</div>
+        </div>
+        <div>
+            <a href="/action/2" class="button">
+                <img src="reset.svg" alt="Reset">
+            </a>
+            <div class="text">Reset (long push then short)</div>
+        </div>
+    </div>
+</body>
+</html>
